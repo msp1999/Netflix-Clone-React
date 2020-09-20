@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is my first big project in react 
+
+you can check it live at: https://netflix-clone-msp.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
